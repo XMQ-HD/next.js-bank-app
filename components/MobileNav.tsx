@@ -81,7 +81,6 @@ const MobileNav = ({user}: MobileNavProps) => {
                 </div>
             </SheetContent>
         </Sheet>
-      
     </section>
   )
 }
